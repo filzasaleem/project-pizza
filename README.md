@@ -9,7 +9,7 @@ as this was the first project so I was happy with what i  acheived.
 I completed all the stretch goals.
 
 ## View it live
-https://filzas-pizzeria.netlify.app/
+Experience the Pizza App live: [Filza's pizza App ](https://filzas-pizzeria.netlify.app/)
 
 
 
